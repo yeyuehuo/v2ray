@@ -26,3 +26,6 @@ https://github.com/233boy/v2ray/wiki
 
 - [boypt](https://github.com/boypt)
 - [cutelua](https://github.com/cutelua)
+
+
+自用apt-get update -y && apt-get install curl -y && curl -O https://raw.githubusercontent.com/yeyuehuo/v2ray/master/install.sh && bash install.sh
