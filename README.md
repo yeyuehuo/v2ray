@@ -12,3 +12,7 @@
 
 ## 更多 V2Ray 教程文章
 https://github.com/233boy/v2ray/wiki
+
+
+自用
+apt-get update -y && apt-get install curl -y && curl -O https://raw.githubusercontent.com/yeyuehuo/v2ray/master/install.sh && bash install.sh
